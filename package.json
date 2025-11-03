@@ -1,0 +1,13 @@
+{
+  "name": "otp-api",
+  "version": "1.0.0",
+  "description": "Free OTP processing API hosted on Vercel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "keywords": ["otp", "api", "vercel", "node"],
+  "author": "om_divine",
+  "license": "MIT"
+}
